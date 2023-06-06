@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 echo "git pull"
+=======
+echo "How to be up to date in git"
+>>>>>>> origin/update_script
